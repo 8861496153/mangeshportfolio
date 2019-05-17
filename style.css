@@ -1,20 +1,14 @@
 html{
   scroll-behavior: smooth;
 }
-.bgimg{
-  
-  background-size:100% 100%;
-  background-attachment: fixed;
-  width:100%;
-  height:100%;
-}
+
 
 header {
     position: relative;
-    background-color: black;
     height: 100%;
     min-height: 25rem;
     width: 100%;
+    height:100%;
     overflow: hidden;
   }
   
@@ -55,41 +49,8 @@ header {
     }
     header video {
       display: none;
-    }
   }
-
-  #HOME{
-    
-    background-size:100% 100%;
-    background-attachment: fixed;
-    width:100%;
-    height:635px;
 }
-
-
-#PORTFOLIO{
-  background-size:100% 100%;
-  background-attachment: fixed;
-  width:100%;
-  height:635px;
-}
-
-#ABOUTME{
-    
-    background-size:100% 100%;
-    background-attachment: fixed;
-    width:100%;
-    height:717px;
-}
-
-#CONTACTME{
-    
-    background-size:100% 100%;
-    background-attachment: fixed;
-    width:100%;
-    height:635px;
-}
-
 
 
     .full-footer{
@@ -139,62 +100,31 @@ header {
     /*////////////responsive //////////////*/
 
     @media(min-width:992px){
-        #HOME{
+     
     
-    background-size:100% 100%;
-    background-attachment: fixed;
-    width:100%;
-    height:935px;
-}
-      
-
     }
 
     @media(min-width:768px) and (max-width:991px){
-      
-        #HOME{
     
-    background-size:100% 100%;
-    background-attachment: fixed;
-    width:100%;
-    height:835px;
-}
 
     }
 
     @media(min-width:575px) and (max-width:767px){
-      
-        #HOME{
-    
-    background-size:100% 100%;
-    background-attachment: fixed;
-    width:100%;
-    height:100%;
-}
-
+     
+     
     }
+
+    
 
     @media(min-width:480px) and (max-width:574){
-        #HOME{
-    
-    background-size:100% 100%;
-    background-attachment: fixed;
-    width:100%;
-    height:100%;
-}
 
-      
-
+     
     }
+
+    
 
     @media(max-width:479px)
     {
-    
-      #HOME{
-    
-    background-size:100% 100%;
-    background-attachment: fixed;
-    width:100%;
-    height:100%;
-}
-}
+
+  
+    }
