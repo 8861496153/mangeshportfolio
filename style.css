@@ -57,45 +57,6 @@ header {
         height: 24px;
     }
 
-    .full-footer fa {
-        padding: 20px;
-        font-size: 10px;
-        width: 40px;
-        text-decoration: none;
-        border-radius: 10%;
-      }
-      
-     .full-footer fa:hover {
-          opacity: 0.7;
-      }
-      
-      .full-footer fa-facebook {
-        background: #3B5998;
-        color: white;
-
-      }
-      
-      .full-footer fa-twitter {
-        background: #55ACEE;
-        color: white;
-      }
-      
-      .full-footer fa-google {
-        background: #dd4b39;
-        color: white;
-      }
-      
-      .full-footer fa-linkedin {
-        background: #007bb5;
-        color: white;
-      }
-      
-      
-      .full-footer fa-instagram {
-        background: #125688;
-        color: white;
-      }
-
 
     /*////////////responsive //////////////*/
 
